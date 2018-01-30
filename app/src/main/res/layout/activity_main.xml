@@ -34,7 +34,7 @@
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="46dp"
-        app:srcCompat="@drawable/ball1" />
+        app:srcCompat="@drawable/ball1" android:contentDescription="TODO"/>
 
     <Button
         android:id="@+id/askButton"
